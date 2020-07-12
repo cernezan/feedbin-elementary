@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Feedbin
+GenericName=RSS Feed
+Comment=Read RSS using Feedbin
+Categories=Internet;GTK;
+Exec=com.github.cernezan.feedbin-elementary
+Icon=com.github.cernezan.feedbin-elementary
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=com.github.cernezan.feedbin-elementary
+Keywords=RSS;Feedbin;feed;
