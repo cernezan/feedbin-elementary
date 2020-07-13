@@ -39,7 +39,7 @@ namespace Feedbin{
     construct {
         
         default_height = 700;
-        default_width = 1000;
+        default_width = 1200;
 
         Gdk.RGBA rgba = { 0, 0, 0, 1 };
         rgba.parse ("#1365DF");
